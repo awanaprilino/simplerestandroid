@@ -1,0 +1,2 @@
+[03-Apr-2020 12:22:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ngekampu/public_html/tugas/modul/User/get_user.php on line 11
+[03-Apr-2020 12:22:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ngekampu/public_html/tugas/modul/User/get_user.php on line 11
